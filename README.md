@@ -65,6 +65,26 @@ Password-Generator/
 - Graphical User Interface (GUI)
 - Custom character exclusions
 
+
+## License
+
+This project is **source-available**, not open source.
+
+You are welcome to:
+- View the source code
+- Fork the repository
+- Modify it for personal use
+- Submit pull requests
+
+You may **not**:
+- Redistribute this project
+- Sell it
+- Use it commercially
+- Publish modified versions outside the official repository
+
+See the `LICENSE` file for the complete terms.
+
+
 ## Author
 
-Mayank Singh Chauhan [Yash]
+Yash Singh
